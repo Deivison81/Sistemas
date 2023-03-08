@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sistemas.Entidades
 {
-    class Categoria
+    public class Categoria
     {
         public int Idcategoria { get; set; }
 
